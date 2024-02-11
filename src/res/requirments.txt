@@ -1,0 +1,6 @@
+Pillow
+python-telegram-bot==13.7
+selenium
+Jinja2
+pyvirtualdisplay
+Flask
